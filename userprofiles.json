@@ -1,0 +1,52 @@
+[
+    {
+        "name": "admin",
+        "password": "$2y$10$Js.\/5VMCJSw59m7tsNry5OTC28i5zpMBxU93HVMSedb78fdHsZzEO",
+        "checkbox": "agreed",
+        "connection": "current",
+        "grade": "11",
+        "message": "ape",
+        "UID": 1,
+        "imagetype": "png"
+    },
+    {
+        "name": "Admin",
+        "password": "$2y$10$hT7uB5WyFK9e95yocn0w3Otq.QWODlBV4JvLjNOghwQi4wOkvoS3i",
+        "checkbox": "agreed",
+        "grade": "",
+        "connection": "staff",
+        "message": "ape ttt",
+        "UID": "2",
+        "imagetype": "jpeg"
+    },
+    {
+        "name": "cypress",
+        "password": "$2y$10$DK7Uede0KnAJnl2j2svjEe8pC02K2oTOEVxP6TaqckCEZIiDL75Mq",
+        "checkbox": "agreed",
+        "connection": "current",
+        "grade": "11",
+        "message": "no",
+        "UID": "3",
+        "imagetype": "png"
+    },
+    {
+        "name": "StevenPeng",
+        "password": "$2y$10$rFIwsKZVJHrM\/O3PmBN7Vu8C2zumjl\/sMBaoc531EJt4W79Gs9rCy",
+        "checkbox": "agreed",
+        "connection": "current",
+        "grade": "11",
+        "message": "lmao",
+        "UID": "4",
+        "imagetype": "png"
+    },
+    {
+        "name": "f",
+        "password": "$2y$10$qgLGT8V5ok7qrnTWOz9FUOSHk1.51ORrrhErn1t\/sDT4p8tctXke6",
+        "checkbox": "agreed",
+        "grade": "12",
+        "connection": "current",
+        "message": "fml",
+        "UID": "5",
+        "imagetype": "jpg"
+    }
+]

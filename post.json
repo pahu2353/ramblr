@@ -1,0 +1,70 @@
+[
+    {
+        "message": "posting",
+        "name": "Admin",
+        "date": "2022-01-20 23:49:20",
+        "likes": [
+            "Admin"
+        ],
+        "comments": [
+            {
+                "commentuid": "1",
+                "comment": "lol this looks pretty sick",
+                "name": "Admin",
+                "date": "2022-01-20 23:49:28"
+            },
+            {
+                "commentuid": "1",
+                "comment": "",
+                "name": "Admin",
+                "date": "2022-01-20 23:49:30"
+            }
+        ],
+        "UID": 1,
+        "imagetype": "jpg"
+    },
+    {
+        "message": "aaaa",
+        "name": "Admin",
+        "date": "2022-01-21 00:24:09",
+        "likes": [],
+        "comments": [],
+        "UID": "2",
+        "imagetype": "pdf"
+    },
+    {
+        "message": "aaaaaa",
+        "name": "Admin",
+        "date": "2022-01-21 00:36:47",
+        "likes": [],
+        "comments": [
+            {
+                "commentuid": "3",
+                "comment": "",
+                "name": "Admin",
+                "date": "2022-01-21 00:42:51"
+            }
+        ],
+        "UID": "3",
+        "imagetype": "epub"
+    },
+    {
+        "message": "He is on a higher level",
+        "name": "StevenPeng",
+        "date": "2022-01-21 08:33:22",
+        "likes": [
+            "StevenPeng",
+            "Admin"
+        ],
+        "comments": [
+            {
+                "commentuid": "4",
+                "comment": "Big man",
+                "name": "StevenPeng",
+                "date": "2022-01-21 08:33:27"
+            }
+        ],
+        "UID": "4",
+        "imagetype": "jpeg"
+    }
+]
